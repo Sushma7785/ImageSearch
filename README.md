@@ -8,4 +8,4 @@ It has a spell checker which performs these specific kinds of typo corrections :
 
 - Remove non-letter characters. 'nyl;on' will be auto-corrected to ‘nylon'
 
-- Mistyped vowels. 'ceku' will be auto-corrected to ‘cake'
+- Mistyped vowels. 'cet' will be auto-corrected to ‘cat'
