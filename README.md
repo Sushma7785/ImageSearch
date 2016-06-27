@@ -1,4 +1,4 @@
-# ImageSearch
+# ImageSearch App
 
 Android app to display images from a search term.
 
